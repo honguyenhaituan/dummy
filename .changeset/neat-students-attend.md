@@ -1,5 +1,5 @@
 ---
-"dummy-lib": patch
+"@tuanhnh/dummy-lib": patch
 ---
 
 Init project

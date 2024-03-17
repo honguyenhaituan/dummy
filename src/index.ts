@@ -17,3 +17,5 @@ export const isOdd = (n: number) => n % 2 === 1;
  * isEven(2) // true
  * */
 export const isEven = (n: number) => n % 2 === 0;
+
+export const sum = (a: number, b: number) => a + b;

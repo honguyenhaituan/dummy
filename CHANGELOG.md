@@ -1,5 +1,11 @@
 # @tuanhnh/dummy-lib
 
+## 1.1.1
+
+### Patch Changes
+
+- 2e60839: fix miss release script
+
 ## 1.1.0
 
 ### Minor Changes

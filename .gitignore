@@ -21,7 +21,6 @@ build/
 .env.production
 
 # Ignore package lock files
-package-lock.json
 yarn.lock
 
 # Ignore IDE and editor files

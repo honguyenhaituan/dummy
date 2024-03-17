@@ -17,6 +17,11 @@
     "typescript": "^5.4.2"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/honguyenhaituan/dummy"
   }
 }
